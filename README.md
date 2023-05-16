@@ -18,7 +18,7 @@ Gracias por tomarte el tiempo de echar un vistazo a mi repositorio de Github.
 
 
 ## Find me around the web 🌎: 
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 
+- Sharing updates on <a href="https://www.linkedin.com/in/christina-sarai-atoche-pascual-0012b9270/">LinkedIn</a> 
 
 <!--
 **Devchris256/Devchris256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
