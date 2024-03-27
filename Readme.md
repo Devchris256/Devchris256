@@ -13,6 +13,7 @@ Aquí está una lista de mis conocimientos, representados con iconos correspondi
 
 - HTML semántico: 💻
 - CSS: 🎨
+- SASS: 🎨
 - Accesibilidad: ♿️
 - Figma: 🖌️
 - Git: 🌳
